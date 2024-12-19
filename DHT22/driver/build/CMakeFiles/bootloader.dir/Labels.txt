@@ -1,0 +1,13 @@
+# Target labels
+ bootloader
+# Source files and their labels
+/home/claudius/Projects/ESP32-stuff/DHT22/driver/build/CMakeFiles/bootloader
+/home/claudius/Projects/ESP32-stuff/DHT22/driver/build/CMakeFiles/bootloader.rule
+/home/claudius/Projects/ESP32-stuff/DHT22/driver/build/CMakeFiles/bootloader-complete.rule
+/home/claudius/Projects/ESP32-stuff/DHT22/driver/build/bootloader-prefix/src/bootloader-stamp/bootloader-build.rule
+/home/claudius/Projects/ESP32-stuff/DHT22/driver/build/bootloader-prefix/src/bootloader-stamp/bootloader-configure.rule
+/home/claudius/Projects/ESP32-stuff/DHT22/driver/build/bootloader-prefix/src/bootloader-stamp/bootloader-download.rule
+/home/claudius/Projects/ESP32-stuff/DHT22/driver/build/bootloader-prefix/src/bootloader-stamp/bootloader-install.rule
+/home/claudius/Projects/ESP32-stuff/DHT22/driver/build/bootloader-prefix/src/bootloader-stamp/bootloader-mkdir.rule
+/home/claudius/Projects/ESP32-stuff/DHT22/driver/build/bootloader-prefix/src/bootloader-stamp/bootloader-patch.rule
+/home/claudius/Projects/ESP32-stuff/DHT22/driver/build/bootloader-prefix/src/bootloader-stamp/bootloader-update.rule
